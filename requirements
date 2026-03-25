@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+pandas
+sentence-transformers
